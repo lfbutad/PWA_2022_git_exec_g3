@@ -1,1 +1,28 @@
- 
+body{
+    font: 20px 'Georgia';
+}
+
+h1,
+h2{
+    margin: 0;
+}
+
+p{
+    line-height: 1.5em;
+}
+
+.base{
+    background: #eeeeee;
+}
+
+.bloco1{
+    background: orange;
+}
+
+.bloco2{
+    background: green;
+}
+
+.bloco3{
+    background: red;
+}
