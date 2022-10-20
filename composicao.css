@@ -31,3 +31,8 @@ p{
 .bloco3{
     background: red;
 }
+
+ #image {
+    float: left;
+    margin: 10px;
+ }
