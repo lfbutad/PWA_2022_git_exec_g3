@@ -13,14 +13,19 @@ p{
 
 .base{
     background: #eeeeee;
+
 }
 
 .bloco1{
     background: orange;
+    width: 200px;
+    float: left;
 }
 
 .bloco2{
     background: green;
+    margin-left: 200px;
+
 }
 
 .bloco3{
